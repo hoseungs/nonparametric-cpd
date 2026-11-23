@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use the simulation code or archived results, please cite this repository."
+title: "Simulation code for Nonparametric Change-Point Detection for Modern Data: Representations and Statistical Guarantees"
+type: software
+authors:
+  - family-names: Song
+    given-names: Hoseung
+repository-code: "https://github.com/hoseungs/nonparametric-cpd-review"

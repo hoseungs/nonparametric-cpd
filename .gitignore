@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.RData
+Rplots.pdf
+analysis/results/*_pilot.*
+figures/*_pilot.*
+figures/*.png
+figures/fig_object_power.pdf
