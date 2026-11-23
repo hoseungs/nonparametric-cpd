@@ -1,0 +1,5 @@
+method,threshold,internal_n
+Full log-Euclidean,1.65346115459183,12
+Eigenvalue-only,1.67352765307399,12
+Full log-Euclidean,0.830336186160446,40
+Eigenvalue-only,0.871740842993655,40

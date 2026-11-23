@@ -1,0 +1,12 @@
+mode: full
+started: 2026-11-18 19:03:19
+elapsed_seconds: 101.25
+master_seed: 20261118
+workers: 4
+R: R version 4.4.2 (2024-10-31)
+platform: aarch64-apple-darwin20
+system: Darwin 25.6.0 arm64
+data.table: 1.17.8
+Rcpp: 1.1.0
+ggplot2: 4.0.0
+configuration: amoc_cal=10000; amoc_eval=2000; amoc_alt=500; object_cal=2000; object_eval=2000; object_alt=500; dependence_null=1000; dependence_alt=500; dependence_B=199; runtime_reps=30

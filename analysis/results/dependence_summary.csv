@@ -1,0 +1,11 @@
+scenario,calibration,rejection,ci_low,ci_high,n_rep,miss_rate,mean_capped_error,median_error_detected
+AR(1) null,IID permutation,0.488,0.457124396609744,0.518967445593909,1000,,,
+AR(1) mean change,IID permutation,0.948,0.924898856062154,0.964269734884295,500,0.052,15.478,6
+AR(1) null,Block permutation (length 5),0.104,0.0865710280982681,0.124459764622292,1000,,,
+AR(1) mean change,Block permutation (length 5),0.704,0.662554664322289,0.742334604769398,500,0.296,41.638,5
+AR(1) null,Block permutation (length 10),0.073,0.0584590262124134,0.0908090255342507,1000,,,
+AR(1) mean change,Block permutation (length 10),0.562,0.518202925869433,0.604851655913335,500,0.438,57.524,5
+AR(1) null,Block permutation (length 15),0.055,0.0424974273747685,0.0709083876773756,1000,,,
+AR(1) mean change,Block permutation (length 15),0.406,0.363830442134064,0.449602933872708,500,0.594,74.98,6
+AR(1) null,Block permutation (length 20),0.045,0.0337995122856317,0.0596828379362235,1000,,,
+AR(1) mean change,Block permutation (length 20),0.22,0.185900932571624,0.258368698086846,500,0.78,95.732,7
