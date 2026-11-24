@@ -1,8 +1,12 @@
 # Nonparametric change-point detection for modern data
 
-R code and simulation results for *Nonparametric Change-Point Detection for Modern Data: Representations and Statistical Guarantees*, by Hoseung Song.
+This repository provides the R codes for the paper:
 
-Section 5 compares how scans are calibrated, which changes they detect, and where they place the change. This repository includes the saved simulation results and the code for Figures 1–3 and the covariance-matrix experiment. All observations used in these experiments are simulated. The MIT contact-network example discussed elsewhere in the paper comes from the published analysis by Dubey and Zheng.
+> **Nonparametric Change-Point Detection for Modern Data: Representations and Statistical Guarantees.**
+
+> Hoseung Song [arxiv]()
+
+Section 5 compares how scans are calibrated, which changes they detect, and where they place the change. This repository includes the saved simulation results and the code for Figures 1–3 and the covariance-matrix experiment. 
 
 ## Find a result
 
