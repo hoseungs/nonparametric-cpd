@@ -4,7 +4,7 @@ This repository provides the R codes for the paper:
 
 > **Nonparametric Change-Point Detection for Modern Data: Representations and Statistical Guarantees.**
 
-> Hoseung Song [arxiv]()
+> Hoseung Song [arxiv](https://arxiv.org/pdf/2611.32158)
 
 Section 5 compares how scans are calibrated, which changes they detect, and where they place the change. This repository includes the saved simulation results and the code for Figures 1–3 and the covariance-matrix experiment. 
 
